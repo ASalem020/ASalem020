@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a media production website<br><br>All of my projects are available at https://next-ahmed-salem.vercel.app/<br><br>How to reach me ahmedmsalem020@gmail.com<br><br>
+<br><br>All of my projects are available at https://next-ahmed-salem.vercel.app/<br><br>How to reach me ahmedmsalem020@gmail.com<br><br>
 
 
 ## 🌐 Socials:
