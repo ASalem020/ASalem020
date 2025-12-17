@@ -1,4 +1,8 @@
-# 💫 About Me:
+h1 align="center">Ahmed Salem 👋</h1>
+
+<p align="center">
+  Full Stack Developer | Frontend Specialist
+</p>
 <br><br>All of my projects are available at https://next-ahmed-salem.vercel.app/<br><br>How to reach me ahmedmsalem020@gmail.com<br><br>
 
 
